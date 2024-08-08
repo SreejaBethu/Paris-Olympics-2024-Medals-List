@@ -19,16 +19,18 @@ This project visualizes the medal counts for countries participating in the Pari
 ## Data
 The data is stored in a CSV file (`Olympics_data.csv`) with columns for medal date, type, athlete's name, gender, country, nationality, discipline, event, and event type.
 
-## Running the Application
-cd paris-olympics-2024-medal-visualization
-pip install -r requirements.txt
-streamlit run app.py
-
 **Project Structure**
 
     app.py: Main script for the application.
     Olympics_data.csv: Dataset with the Olympics medal information.
     requirements.txt: Dependencies list.
+
+## Running the Application
+
+cd paris-olympics-2024-medal-visualization
+pip install -r requirements.txt
+streamlit run app.py
+
 
 **Future Enhancements**
 
