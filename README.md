@@ -1,4 +1,4 @@
-# Paris Olympics 2024 Medal Count Visualization**
+# Paris Olympics 2024 Medal Count Visualization
 
 ## Overview
 This project visualizes the medal counts for countries participating in the Paris Olympics 2024 using Streamlit, Seaborn, Matplotlib, and Plotly.
