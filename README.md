@@ -50,11 +50,7 @@ streamlit run app.py
 
 ![Screenshot (17)](https://github.com/user-attachments/assets/d45356ea-a182-47a9-9378-af47a8b66597)
 
-
-
-
-
-**Future Enhancements**
+## Future Enhancements
 
     Add country and date filters.
     Include athlete details.
